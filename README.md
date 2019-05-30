@@ -1,3 +1,4 @@
+[TOC]
 #blog  
 >>my first blog  
 ***
